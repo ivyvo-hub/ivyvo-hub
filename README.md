@@ -15,6 +15,5 @@ Welcome to my portfolio, where I showcase my data analytics projects.
 - [Diageo Spirit Sales Analytics & Forecast Dashboard](https://github.com/ivyvo-hub/Diageo-B2B-Off-Trade-Spirit-Sales-Analytics-Forecast-H1-2025-)
 
 
-
 👋🏻 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/vothikieutrinh/)
