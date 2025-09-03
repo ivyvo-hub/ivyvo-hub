@@ -10,8 +10,8 @@ Hello, I'm Ivy Vo. A Market Analyst with 2.5 years of experience, now expanding 
 
 
 💡 **Projects**
-Welcome to my portfolio, where I showcase my data analytics projects.
 
+Welcome to my portfolio, where I showcase my data analytics projects.
 - [Diageo Spirit Sales Analytics & Forecast Dashboard](https://github.com/ivyvo-hub/Diageo-B2B-Off-Trade-Spirit-Sales-Analytics-Forecast-H1-2025-)
 
 
