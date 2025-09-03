@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**ivyvo-hub/ivyvo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏻‍♀️ Introducing Myself
+---
+Hello, I'm Ivy Vo. A Market Analyst with 2.5 years of experience, now expanding into Data Analytics. I'm passionate about transforming complex data into business insights.
 
-Here are some ideas to get you started:
+🚀 **Skills**
+- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib), SQL Server, SPSS, Excel
+- **Visualization & BI Tools**: Power BI, Storytelling & Reporting (PowerPoint)
+- **Professional Skills**: Communication, Stakeholder Management, Analytical Thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Projects**
+Welcome to my portfolio, where I showcase my data analytics projects.
+
+- [Diageo Spirit Sales Analytics & Forecast Dashboard](https://github.com/ivyvo-hub/Diageo-B2B-Off-Trade-Spirit-Sales-Analytics-Forecast-H1-2025-)
+
+👋🏻 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/vothikieutrinh/)
