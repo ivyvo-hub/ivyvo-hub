@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-Hello, I'm Ivy Vo. A Market Analyst with 2.5 years of experience, now expanding into Data Analytics. I'm passionate about transforming complex data into business insights.
+Hello, I'm Ivy Vo. A Market Analyst with 2 years of experience, now expanding into Data Analytics. I'm passionate about transforming complex data into business insights.
 
 ## 🚀 Skills
 
